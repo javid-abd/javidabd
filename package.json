@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:javid-abd/javidabd.git"
   },
   "scripts": {
     "prepublish": "npm run build",
