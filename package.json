@@ -1,6 +1,6 @@
 {
   "name": "javidabd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Javid Abdullayev (@javid_abd)",
   "main": "/bin/card.js",
   "bin": {
