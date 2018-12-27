@@ -5,4 +5,4 @@ Via npx:
 ```
 npx javidabd
 ```
-
+Note: NPX is just a tool for executing Node packages.
