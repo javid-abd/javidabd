@@ -1,4 +1,4 @@
-Discover me just typing two words!
+## Discover me just typing two words!
 
 # Usage
 Via npx:
